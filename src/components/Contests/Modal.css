@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+.platform-link{
+    background:none;
+    outline: none;
+    border: none;
+    color:aliceblue;  
+}
+.platform-name{
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    text-emphasis:10px;
+}
+.contest-Modal{
+    position: sticky;
+    padding: 2rem;
+    background-color: #171941;
+    margin:0; 
+}
